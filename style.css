@@ -1,0 +1,371 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+}
+nav {
+  background-image: linear-gradient(rgb(27, 18, 47), rgba(0, 0, 0, 0));
+}
+.a1:hover {
+  border-bottom: 2px solid white;
+  transition: all 0.3s ease-in-out;
+}
+section.A {
+  background-image: url(https://vip-themes.com/impreza/26/wp-content/uploads/2023/01/bg-scaled-1.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  height: 100vh;
+}
+section.A > div.mtn > span.t {
+  margin-top: 12%;
+  margin-left: 62%;
+}
+.animate__animated.animate__fadeInLeftBig {
+  animation-duration: 2s;
+}
+.animate__animated.animate__fadeInLeft {
+  animation-duration: 2s;
+}
+section.A > div.mtn > span.t1 {
+  margin-left: 50%;
+  margin-bottom: 20px;
+}
+span.t4 {
+  position: absolute;
+  bottom: -5%;
+  left: 44%;
+}
+section.A > div.b > button.t2 {
+  margin-right: 15%;
+}
+.p {
+  font-size: 90px;
+  font-weight: 700;
+  color: #6231ed;
+}
+section.D {
+  background-image: url(https://vip-themes.com/impreza/26/wp-content/uploads/2023/01/map.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  height: 400px;
+}
+div.overlay {
+  z-index: -1;
+  background-color: rgba(42, 42, 138, 0.5);
+}
+span.o {
+  font-size: 80px;
+  font-weight: 700;
+}
+@media (max-width: 572px) {
+  span.o {
+    font-size: 60px;
+  }
+}
+@media (max-width: 460px) {
+  span.o {
+    font-size: 50px;
+  }
+}
+@media (max-width: 384px) {
+  span.o {
+    font-size: 40px;
+  }
+}
+@media (max-width: 316px) {
+  span.o {
+    font-size: 30px;
+  }
+}
+@media (max-width: 252px) {
+  span.o {
+    font-size: 20px;
+  }
+}
+.o1 {
+  margin-right: 4%;
+  margin-top: 26%;
+}
+.c1 {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(252, 248, 248);
+}
+.c2 {
+  width: 320px;
+  height: 320px;
+  background-color: #1b122fd8;
+}
+.c3 {
+  width: 400px;
+  height: 400px;
+  background-color: #d5d1dd;
+}
+@media (min-width: 146px), (max-width: 380px) {
+  .c3 {
+    width: 350px !important;
+    height: 350px !important;
+  }
+}
+.s3 {
+  font-size: 80px;
+  font-weight: 700;
+}
+.c4 {
+  width: 240px;
+  height: 240px;
+  background-color: #561dc9de;
+}
+.tt {
+  font-size: 40px;
+  margin-bottom: 40px;
+  font-weight: 700;
+  color: black;
+}
+@media (min-width: 760px), (max-width: 1351px) {
+  section.E > .container-fluid > .row > .col.w {
+    flex-wrap: wrap;
+    gap: 0;
+  }
+}
+@media (min-width: 1351px) {
+  section.E > .container-fluid > .row > .col.w {
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+}
+@media (max-width: 760px) {
+  section.E > .container-fluid > .row > .col.w {
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+}
+@media (min-width: 760px), (max-width: 1351px) {
+  section.E > .container-fluid > .row > .col.g {
+    gap: 0;
+    margin: 0;
+    padding: 0;
+  }
+}
+.b1 {
+  padding: 6px 32%;
+}
+.c {
+  font-size: 13px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+.b {
+  color: #0b5dd779;
+}
+@media (min-width: 770px) and (max-width: 1132px) {
+  .C .row .col2 img {
+    max-width: 150px;
+    height: auto;
+    margin-right: 130px;
+  }
+}
+@media (min-width: 770px) and (max-width: 1132px) {
+  .C .col1 .row {
+    --bs-gutter-x: 6rem;
+    --bs-gutter-y: 2rem;
+  }
+}
+section.G {
+  background-color: #1b122f;
+}
+.x1 {
+  font-size: 00px;
+  font-weight: 700;
+  color: #7b828d;
+  position: absolute;
+  top: -40px;
+  left: 40%;
+}
+.s {
+  padding: 18px 15px;
+  font-size: 14px;
+  font-weight: 400;
+  color: gray;
+}
+.s1 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.s2 {
+  font-size: 13px;
+  color: gray;
+}
+img.s3 {
+  width: 52px;
+  height: 52px;
+}
+div.all {
+  margin-right: 40px;
+}
+div.card {
+  margin: 25px 24px;
+}
+div.card:hover {
+  background-color: rgb(201, 206, 236);
+  transition-duration: 1s;
+}
+@media (max-width: 1344px) {
+  div.card {
+    margin: 25px 18px;
+  }
+}
+@media (max-width: 1308px) {
+  div.card {
+    margin: 25px 10px;
+  }
+}
+@media (max-width: 1260px) {
+  div.card {
+    margin: 25px 4px;
+  }
+}
+@media (max-width: 1221px) {
+  div.card {
+    margin: 25px 2px;
+  }
+}
+@media (max-width: 1212px) {
+  div.card {
+    width: 300px !important;
+  }
+}
+@media (max-width: 1212px) {
+  .s2 {
+    font-size: 10px;
+  }
+}
+@media (max-width: 1212px) {
+  .row {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+  }
+}
+@media (max-width: 976px) {
+  div.card {
+    width: 250px !important;
+  }
+}
+@media (min-width: 1356px), (max-width: 2652px) {
+  .row {
+    display: flex;
+    justify-content: center;
+  }
+}
+section.H {
+  padding-top: 50px;
+  background-color: #f3effb;
+}
+.h {
+  background-color: #f3effb;
+}
+.h:hover {
+  background-color: white;
+}
+.s4 {
+  font-weight: 700;
+  font-size: 40px;
+}
+.animate__animated1.animate__fadeInUp {
+  animation-duration: 1s;
+}
+.animate__animated2.animate__fadeInUp {
+  animation-duration: 2s;
+}
+.animate__animated3.animate__fadeInUp {
+  animation-duration: 3s;
+}
+section.I {
+  background-color: #6231ed;
+  padding-bottom: 200px;
+}
+.t {
+  font-size: 40px;
+  color: white;
+  font-weight: 700;
+}
+@media (max-width: 636px) {
+  .t {
+    font-size: 30px;
+  }
+}
+@media (max-width: 512px) {
+  .t {
+    font-size: 20px;
+  }
+}
+@media (max-width: 316px) {
+  .t {
+    font-size: 13px;
+  }
+}
+@media (max-width: 484px) {
+  p.j1 {
+    font-size: 8px;
+  }
+}
+@media (max-width: 484px) {
+  a.j1 {
+    font-size: 8px;
+  }
+}
+@media (max-width: 324px) {
+  a.j1 {
+    font-size: 4px;
+  }
+}
+@media (max-width: 324px) {
+  p.j1 {
+    font-size: 4px;
+  }
+}
+@media (max-width: 224px) {
+  p.j1 {
+    font-size: 2px;
+  }
+}
+@media (max-width: 224px) {
+  a.j1 {
+    font-size: 2px;
+  }
+}
+div.t1 {
+  margin-top: 15%;
+}
+section.J {
+  background-color: #1b122f;
+  padding-top: 50px;
+}
+.j1 {
+  font-size: 14px;
+}
+@media (min-width: 188px), (max-width: 900px) {
+  .I1 {
+    padding: 5px;
+    margin: 0;
+    font-size: 15px !important;
+  }
+}
+@media (min-width: 900px) {
+  .I1 {
+    padding: 4px;
+    margin: 0;
+    font-size: 30px !important;
+  }
+}
+@media (min-width: 1924px) {
+  div.t1 {
+    margin-bottom: 90px;
+  }
+}
